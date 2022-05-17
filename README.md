@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yogi1857
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning c language.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yogesh998281@gmail.com
 
